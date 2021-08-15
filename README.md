@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m...
-  👨🏻‍🎓 B.A. in Computer Science / Minor in Statistics at University of Minnesosta - Twin Cities
+  👨🏻‍🎓 B.A. in Computer Science / Minor in Statistics at University of Minnesosta - Twin Cities  
   📚 NAVER BoostCamp AI Tech 2기
 
 I’m currently learning ...
