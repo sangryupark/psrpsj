@@ -4,6 +4,9 @@
 * 👨🏻‍🎓 B.A. in Computer Science / Minor in Statistics at University of Minnesosta - Twin Cities  
 * 📚 NAVER BoostCamp AI Tech 2기
 
+#### Language I've been experienced with ...
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 #### I’m currently learning ...  
 * 🧠 Deep Learning - Natural Language Processing
 
