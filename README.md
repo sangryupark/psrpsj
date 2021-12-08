@@ -2,7 +2,7 @@
 
 #### I’m...  
 * 👨🏻‍🎓 B.A. in Computer Science / Minor in Statistics at University of Minnesosta - Twin Cities  
-* 📚 NAVER BoostCamp AI Tech 2nd
+* 📚 NAVER Connect BoostCamp AI Tech 2nd
 
 #### Language I've been experienced with ...
 * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
