@@ -14,6 +14,7 @@
 
 #### I’m currently learning ...  
 * 🧠 Deep Learning - Natural Language Processing
+* ⛏ Data Science
 
 #### How to reach me ...  
 * 📮E-mail : psrpsj@gmail.com
